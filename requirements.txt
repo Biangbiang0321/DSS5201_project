@@ -1,0 +1,7 @@
+numpy==1.26.0
+pandas==2.1.1
+geopandas==0.14.0
+plotnine==0.12.1
+plotly==5.20.0
+streamlit==1.27.0
+pycountry==23.9.0
